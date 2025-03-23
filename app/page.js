@@ -128,7 +128,7 @@ export default function Home() {
             &gt;
           </div>
           <div class="text-[#FCE93C] text-center w-full  basis-auto">
-            SYSTEM STATUS: IN TRAINING
+            SYSTEM STATUS : IN TRAINING
           </div>
         </div>
       </div>
